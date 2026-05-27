@@ -1,0 +1,6 @@
+{
+  "name": "CineSync",
+  "description": "Synchronized cinema streaming platform with voice channels, real-time live chat, dynamic video downloads, and live developer dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
